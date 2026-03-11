@@ -90,8 +90,7 @@ Run the main script to execute the analysis and training pipeline:
 python main.py
 ```
 
+
 ## Results
 
-Upon running the script, you will see:
-*   Two pop-up windows with visualization plots.
-*   Console output showing the dataset shape, model accuracy, confusion matrix, and classification metrics.
+Upon running the script,
